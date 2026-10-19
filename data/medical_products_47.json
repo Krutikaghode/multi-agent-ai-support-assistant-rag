@@ -1,0 +1,378 @@
+[
+  {
+    "sku": "MED-1001",
+    "name": "Digital Stethoscope Pro",
+    "category": "Diagnostic Equipment",
+    "indications": "Cardiovascular and pulmonary auscultation",
+    "specifications": "32x amplification, Bluetooth connectivity, rechargeable battery",
+    "price": 299.99
+  },
+  {
+    "sku": "MED-1002",
+    "name": "Pulse Oximeter Elite",
+    "category": "Diagnostic Equipment",
+    "indications": "Continuous SpO2 and pulse rate monitoring",
+    "specifications": "OLED display, spot-check and continuous modes, 24-hour battery life",
+    "price": 49.99
+  },
+  {
+    "sku": "MED-1003",
+    "name": "Automated External Defibrillator X1",
+    "category": "Emergency Care",
+    "indications": "Sudden cardiac arrest resuscitation",
+    "specifications": "Voice prompts, biphasic waveform, CPR feedback sensor",
+    "price": 1250.00
+  },
+  {
+    "sku": "MED-1004",
+    "name": "Non-Contact Infrared Thermometer",
+    "category": "Diagnostic Equipment",
+    "indications": "Rapid body temperature screening",
+    "specifications": "1-second readout, color-coded fever alarm, 50-reading memory",
+    "price": 35.50
+  },
+  {
+    "sku": "MED-1005",
+    "name": "Portable Nebulizer System",
+    "category": "Respiratory Care",
+    "indications": "Aerosol medication delivery for asthma and COPD",
+    "specifications": "Vibrating mesh technology, silent operation, battery powered",
+    "price": 65.00
+  },
+  {
+    "sku": "MED-1006",
+    "name": "Blood Pressure Monitor Pro",
+    "category": "Diagnostic Equipment",
+    "indications": "Non-invasive arterial blood pressure measurement",
+    "specifications": "Dual-user memory, irregular heartbeat detection, wide-range cuff",
+    "price": 79.99
+  },
+  {
+    "sku": "MED-1007",
+    "name": "Surgical LED Headlight",
+    "category": "Surgical Supplies",
+    "indications": "High-intensity focal illumination during surgical procedures",
+    "specifications": "50,000 lux output, adjustable headband, dual battery pack",
+    "price": 340.00
+  },
+  {
+    "sku": "MED-1008",
+    "name": "Multi-Parameter Patient Monitor",
+    "category": "Monitoring Systems",
+    "indications": "Real-time ECG, NIBP, SpO2, and temperature tracking",
+    "specifications": "12.1-inch color touchscreen, networkable to central monitor station",
+    "price": 2100.00
+  },
+  {
+    "sku": "MED-1009",
+    "name": "Portable 3-Channel ECG Machine",
+    "category": "Diagnostic Equipment",
+    "indications": "Electrocardiographic recording and arrhythmia analysis",
+    "specifications": "Built-in thermal printer, auto-interpretation algorithm, USB export",
+    "price": 850.00
+  },
+  {
+    "sku": "MED-1010",
+    "name": "Handheld Ultrasound Scanner",
+    "category": "Imaging Equipment",
+    "indications": "Abdominal, vascular, and OB/GYN point-of-care imaging",
+    "specifications": "Phased array probe, iOS/Android app integration, wireless charging",
+    "price": 3200.00
+  },
+  {
+    "sku": "MED-1011",
+    "name": "Volumetric Infusion Pump",
+    "category": "Medication Delivery",
+    "indications": "Precise intravenous fluid and drug administration",
+    "specifications": "Flow rate 0.1-1200 mL/h, anti-bolus system, occlusion sensors",
+    "price": 980.00
+  },
+  {
+    "sku": "MED-1012",
+    "name": "Precision Syringe Pump",
+    "category": "Medication Delivery",
+    "indications": "Low-volume critical care medication infusion",
+    "specifications": "Compatible with 5mL-60mL syringes, micro-infusion mode",
+    "price": 750.00
+  },
+  {
+    "sku": "MED-1013",
+    "name": "Medical Grade Suction Unit",
+    "category": "Respiratory Care",
+    "indications": "Airway clearance and surgical fluid aspiration",
+    "specifications": "Adjustable vacuum 20-600 mmHg, overflow protection, canister set",
+    "price": 420.00
+  },
+  {
+    "sku": "MED-1014",
+    "name": "5L Oxygen Concentrator",
+    "category": "Respiratory Care",
+    "indications": "Supplemental oxygen therapy for chronic respiratory insufficiency",
+    "specifications": "0.5-5 L/min continuous flow, 93% O2 purity, quiet operation",
+    "price": 680.00
+  },
+  {
+    "sku": "MED-1015",
+    "name": "Auto-CPAP Therapy System",
+    "category": "Respiratory Care",
+    "indications": "Obstructive sleep apnea treatment",
+    "specifications": "Auto-adjusting pressure, integrated heated humidifier, cellular modem",
+    "price": 550.00
+  },
+  {
+    "sku": "MED-1016",
+    "name": "5-Function Electric Hospital Bed",
+    "category": "Patient Care",
+    "indications": "ICU and post-operative patient positioning and care",
+    "specifications": "Full electric adjustments, Trendelenburg position, CPR quick release",
+    "price": 2400.00
+  },
+  {
+    "sku": "MED-1017",
+    "name": "Lightweight Folding Wheelchair",
+    "category": "Mobility Aids",
+    "indications": "Patient transport and daily mobility assistance",
+    "specifications": "Aluminum frame, 250 lb capacity, swing-away footrests",
+    "price": 180.00
+  },
+  {
+    "sku": "MED-1018",
+    "name": "Hydraulic Patient Transfer Lift",
+    "category": "Mobility Aids",
+    "indications": "Safe patient transfer between bed, chair, and bath",
+    "specifications": "450 lb weight capacity, low-base design, emergency lowering",
+    "price": 890.00
+  },
+  {
+    "sku": "MED-1019",
+    "name": "Handheld Digital Spirometer",
+    "category": "Diagnostic Equipment",
+    "indications": "Pulmonary function testing (FVC, FEV1, PEF)",
+    "specifications": "Color screen, disposable turbine sensor, PC software included",
+    "price": 310.00
+  },
+  {
+    "sku": "MED-1020",
+    "name": "Vascular Doppler Probe",
+    "category": "Diagnostic Equipment",
+    "indications": "Peripheral arterial and venous blood flow assessment",
+    "specifications": "8 MHz high-sensitivity probe, built-in speaker, audio output jack",
+    "price": 270.00
+  },
+  {
+    "sku": "MED-1021",
+    "name": "Neonatal Phototherapy Unit",
+    "category": "Neonatal Care",
+    "indications": "Hyperbilirubinemia treatment in newborns",
+    "specifications": "Blue LED spectrum 450-475 nm, irradiance controls, timer display",
+    "price": 1150.00
+  },
+  {
+    "sku": "MED-1022",
+    "name": "Air-Shield Infant Incubator",
+    "category": "Neonatal Care",
+    "indications": "Controlled thermal and humid environment for pre-term infants",
+    "specifications": "Microprocessor temp/humidity control, double-wall canopy, O2 module",
+    "price": 4800.00
+  },
+  {
+    "sku": "MED-1023",
+    "name": "Core Anesthesia Workstation",
+    "category": "Surgical Equipment",
+    "indications": "Inhalation anesthesia delivery and mechanical ventilation",
+    "specifications": "10.4-inch display, 2-vaporizer position, integrated gas module",
+    "price": 12500.00
+  },
+  {
+    "sku": "MED-1024",
+    "name": "300W Electrosurgical Unit",
+    "category": "Surgical Equipment",
+    "indications": "Monopolar and bipolar tissue cutting and coagulation",
+    "specifications": "Pure cut, blend, fulguration, bipolar modes, contact quality monitor",
+    "price": 3100.00
+  },
+  {
+    "sku": "MED-1025",
+    "name": "Electric Surgical Operating Table",
+    "category": "Surgical Equipment",
+    "indications": "Patient positioning across multi-specialty surgical procedures",
+    "specifications": "Radio-translucent tabletop, 300 kg capacity, battery backup",
+    "price": 8900.00
+  },
+  {
+    "sku": "MED-1026",
+    "name": "24L Benchtop Steam Autoclave",
+    "category": "Sterilization Equipment",
+    "indications": "Instrument sterilization for surgical and dental clinics",
+    "specifications": "Class B fractionated vacuum, automated drying, 4 sterilization programs",
+    "price": 2200.00
+  },
+  {
+    "sku": "MED-1027",
+    "name": "Class II Biological Safety Cabinet",
+    "category": "Laboratory Equipment",
+    "indications": "Sterile sample handling and cell culture protection",
+    "specifications": "HEPA filtration 99.999%, dual-motor laminar airflow, UV light sterilization",
+    "price": 3800.00
+  },
+  {
+    "sku": "MED-1028",
+    "name": "Benchtop Clinical Centrifuge",
+    "category": "Laboratory Equipment",
+    "indications": "Blood separation and serum preparation",
+    "specifications": "4000 RPM max speed, swing-out rotor for 8x15mL tubes, digital timer",
+    "price": 620.00
+  },
+  {
+    "sku": "MED-1029",
+    "name": "300L Medical Vaccine Refrigerator",
+    "category": "Laboratory Equipment",
+    "indications": "Cold storage of vaccines, biologicals, and pharmaceuticals",
+    "specifications": "2-8 degree C range, microtemp controller, power failure alarm",
+    "price": 1450.00
+  },
+  {
+    "sku": "MED-1030",
+    "name": "Blood Glucose Meter Kit",
+    "category": "Diagnostic Equipment",
+    "indications": "Point-of-care capillary blood glucose measurement",
+    "specifications": "5-second test time, 0.6 uL sample size, 500-test memory log",
+    "price": 29.99
+  },
+  {
+    "sku": "MED-1031",
+    "name": "Portable Hemoglobin Analyzer",
+    "category": "Laboratory Equipment",
+    "indications": "Rapid screening for anemia in clinical settings",
+    "specifications": "10-second measurement, microcuvette sampling, rechargeable battery",
+    "price": 480.00
+  },
+  {
+    "sku": "MED-1032",
+    "name": "Automated Urinalysis Strip Reader",
+    "category": "Laboratory Equipment",
+    "indications": "Objective reading of 10-parameter urine test strips",
+    "specifications": "120 tests/hour capacity, built-in thermal printer, RS232 export",
+    "price": 540.00
+  },
+  {
+    "sku": "MED-1033",
+    "name": "Wall-Mounted ENT Diagnostic Set",
+    "category": "Diagnostic Equipment",
+    "indications": "Ophthalmic and otic clinical examination",
+    "specifications": "Direct ophthalmoscope, fiber optic otoscope, 3.5V handles with coiled cords",
+    "price": 430.00
+  },
+  {
+    "sku": "MED-1034",
+    "name": "Polarized LED Dermatoscope",
+    "category": "Diagnostic Equipment",
+    "indications": "Skin lesion inspection and melanoma screening",
+    "specifications": "10x magnification, cross-polarized and non-polarized LED modes",
+    "price": 390.00
+  },
+  {
+    "sku": "MED-1035",
+    "name": "Infrared Vein Visualization System",
+    "category": "Vascular Care",
+    "indications": "Vein localization for difficult vascular access and IV placement",
+    "specifications": "Near-infrared projection, 3 brightness modes, desktop mount included",
+    "price": 880.00
+  },
+  {
+    "sku": "MED-1036",
+    "name": "Portable Capnography Monitor",
+    "category": "Respiratory Care",
+    "indications": "Continuous End-Tidal CO2 (EtCO2) and respiration rate monitoring",
+    "specifications": "Sidestream technology, audible/visual alarms, trend data storage",
+    "price": 1350.00
+  },
+  {
+    "sku": "MED-1037",
+    "name": "Biphasic Defibrillator Monitor",
+    "category": "Emergency Care",
+    "indications": "Advanced cardiac resuscitation and pacing",
+    "specifications": "Manual defibrillation, AED mode, transcutaneous pacer, 7-inch display",
+    "price": 4200.00
+  },
+  {
+    "sku": "MED-1038",
+    "name": "Video Laryngoscope System",
+    "category": "Airway Management",
+    "indications": "Endotracheal intubation in difficult airway management",
+    "specifications": "3.5-inch monitor, reusable anti-fog blades sizes 2, 3, 4",
+    "price": 1600.00
+  },
+  {
+    "sku": "MED-1039",
+    "name": "Flexible Biliary Endoscope",
+    "category": "Endoscopy",
+    "indications": "Diagnostic and therapeutic biliary tract procedures",
+    "specifications": "3.2 mm insertion tube, 1.2 mm working channel, 120-degree field of view",
+    "price": 7800.00
+  },
+  {
+    "sku": "MED-1040",
+    "name": "Orthopedic Cast Saw with Vacuum",
+    "category": "Orthopedics",
+    "indications": "Safe removal of plaster and synthetic orthopedic casts",
+    "specifications": "Low-noise motor, integrated dust extraction vacuum, speed regulator",
+    "price": 720.00
+  },
+  {
+    "sku": "MED-1041",
+    "name": "Ultrasound Bone Densitometer",
+    "category": "Diagnostic Equipment",
+    "indications": "Osteoporosis screening and bone mineral density assessment",
+    "specifications": "Calcaneus measurement, 15-second scan time, built-in thermal printer",
+    "price": 5100.00
+  },
+  {
+    "sku": "MED-1042",
+    "name": "DVT Sequential Compression Pump",
+    "category": "Vascular Care",
+    "indications": "Deep vein thrombosis prevention in post-surgical patients",
+    "specifications": "Sequential compression mode, pressure range 30-60 mmHg, quiet motor",
+    "price": 670.00
+  },
+  {
+    "sku": "MED-1043",
+    "name": "Motorized Cold Therapy Unit",
+    "category": "Post-Op Care",
+    "indications": "Post-surgical swelling reduction and localized pain relief",
+    "specifications": "Continuous ice water circulation pump, ergonomic universal pad",
+    "price": 195.00
+  },
+  {
+    "sku": "MED-1044",
+    "name": "4-Channel TENS Electrotherapy Unit",
+    "category": "Physical Therapy",
+    "indications": "Pain relief and neuromuscular rehabilitation",
+    "specifications": "24 preset treatment programs, 4 independent output channels",
+    "price": 85.00
+  },
+  {
+    "sku": "MED-1045",
+    "name": "Hospital Air Purifier HEPA H14",
+    "category": "Infection Control",
+    "indications": "Airborne pathogen and allergen filtration in clinical rooms",
+    "specifications": "True HEPA H14 filter, UV-C germicidal chamber, CADR 500 m3/h",
+    "price": 410.00
+  },
+  {
+    "sku": "MED-1046",
+    "name": "Automated UV-C Disinfection Robot",
+    "category": "Infection Control",
+    "indications": "Surface and air room decontamination",
+    "specifications": "254 nm UV-C lamps, 360-degree coverage, motion safety auto-shutoff",
+    "price": 2900.00
+  },
+  {
+    "sku": "MED-1047",
+    "name": "5-Drawer Medical Crash Cart",
+    "category": "Emergency Care",
+    "indications": "Storage and transport of emergency resuscitation drugs and equipment",
+    "specifications": "Central key lock, swivel casters, defibrillator tray, IV pole, CPR board",
+    "price": 820.00
+  }
+]
